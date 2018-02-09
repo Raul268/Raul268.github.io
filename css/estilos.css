@@ -1,0 +1,20 @@
+ .has-text-success {
+ 	color: #23d160 !important;
+ }
+
+  .has-text-danger {
+ 	color: #ff3860 !important;
+ }
+
+ .has-text-warning {
+ 	color: #ffdd57 !important;
+ }
+ 
+  .is-gapless {
+  	margin: 0 !important;
+  padding: 0 !important;
+  }
+
+  .has-text-info {
+ 	color: #3b5998 !important;
+ }
